@@ -1,3 +1,4 @@
+#RStudio
 #Day 2: Quick Assesment
 
 #Question #1: Determining Sample Size
